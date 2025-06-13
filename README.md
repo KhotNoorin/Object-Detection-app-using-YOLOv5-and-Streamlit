@@ -25,9 +25,11 @@ This project is a simple and interactive web application built with **YOLOv5** a
 
 ---
 
-Author
+Author:
 Noorin Khot
+
 📍 India
+
 https://github.com/KhotNoorin 
 
 
