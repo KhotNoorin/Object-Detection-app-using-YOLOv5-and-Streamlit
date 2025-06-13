@@ -1,0 +1,9 @@
+streamlit
+torch
+torchvision
+torchaudio
+opencv-python
+Pillow
+numpy
+pandas
+git+https://github.com/ultralytics/yolov5
