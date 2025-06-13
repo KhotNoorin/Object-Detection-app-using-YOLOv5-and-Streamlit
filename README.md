@@ -2,8 +2,6 @@
 
 This project is a simple and interactive web application built with **YOLOv5** and **Streamlit** that allows users to perform object detection on uploaded images.
 
-![Demo Output](output/5.png)
-
 ---
 
 ## 🚀 Features
