@@ -1,12 +1,26 @@
-# YOLOv5 Object Detection with Streamlit
+# 🔍 YOLOv5 Object Detection Web App using Streamlit
 
-This project is a web-based object detection app using YOLOv5 and Streamlit.
+This project is a simple and interactive web application built with **YOLOv5** and **Streamlit** that allows users to perform object detection on uploaded images.
 
-## 💡 Features
-- Upload an image
-- Detect objects with adjustable confidence threshold
-- See results instantly in the browser
+![Demo Output](output/5.png)
 
-## 📷 Example Output
+---
 
-![Detection Output](5.png)
+## 🚀 Features
+
+- Upload images (JPG, JPEG, PNG up to 200MB)
+- Detects multiple objects using YOLOv5s model
+- Adjustable confidence threshold slider
+- Real-time annotated results displayed
+- Lightweight and easy-to-use web interface
+
+---
+
+## 📦 Requirements
+
+- Python 3.8+
+- PyTorch
+- Streamlit
+- OpenCV
+- YOLOv5
+- ultralytics
