@@ -22,3 +22,12 @@ This project is a simple and interactive web application built with **YOLOv5** a
 - OpenCV
 - YOLOv5
 - ultralytics
+
+---
+
+Author
+Noorin Khot
+📍 India
+https://github.com/KhotNoorin 
+
+
